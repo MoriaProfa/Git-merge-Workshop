@@ -1,2 +1,4 @@
-let thiseText = "Hello World!";
-let thisTdext1 = "Hello Earth!";
+
+let thisText = "Hi World!";
+let thisText1 = "Hey Vienna!";
+
