@@ -1,4 +1,2 @@
-
-let thisText = "Hi World!";
-let thisText1 = "Hey Vienna!";
-
+let thisText = "Hi Vienna!";
+let thisText1 = "Hey Austria!";
